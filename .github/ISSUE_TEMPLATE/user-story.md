@@ -10,12 +10,6 @@ assignees: ""
 
 As a user, I want __________ so that __________.
 
-## Acceptance Criteria
-
-- [ ]
-- [ ]
-- [ ]
-
 ## Priority
 
 - High
